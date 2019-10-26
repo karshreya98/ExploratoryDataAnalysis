@@ -1,4 +1,4 @@
-In this notebook, I perform EDA on on a New York citi AirBnb data obtained via Kaggle.
+In this notebook, I perform EDA on on a New York city AirBnb data obtained via Kaggle.
 I do the following steps:
 <ul>
 <li>Discovering the shape of the dataset</li>
